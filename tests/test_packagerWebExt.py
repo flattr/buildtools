@@ -353,7 +353,7 @@ def assert_base_files(package, platform, prefix, devenv):
         assert ('[Content_Types].xml' in filenames) is not devenv
 
         if not devenv:
-            assert package.read('Extension/icons/abp-44.png') == '44'
+            assert package.read('Extension/icons/blockera-44.png') == '44'
 
     assert os.path.join(prefix, 'bar.json') in filenames
     assert os.path.join(prefix, 'manifest.json') in filenames

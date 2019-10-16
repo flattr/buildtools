@@ -9,9 +9,9 @@
   },
   "browser_action": {
     "default_icon": {
-      "16": "icons/abp-16.png",
-      "19": "icons/abp-19.png",
-      "53": "icons/abp-53.png"
+      "16": "icons/blockera-16.png",
+      "19": "icons/blockera-19.png",
+      "53": "icons/blockera-53.png"
     },
     "default_popup": "popup.html",
     "default_title": "__MSG_name__"
@@ -45,7 +45,7 @@
     ]
   },
   "icons": {
-    "16": "icons/abp-16.png"
+    "16": "icons/blockera-16.png"
   },
   "manifest_version": 2,
   "minimum_chrome_version": "49.0",

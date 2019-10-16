@@ -9,8 +9,8 @@ testScripts =
   ../ext/common.js
   ../ext/background.js
 options = options.html
-browserAction = icons/abp-16.png icons/abp-19.png icons/abp-53.png popup.html
-icons = icons/abp-16.png
+browserAction = icons/blockera-16.png icons/blockera-19.png icons/blockera-53.png popup.html
+icons = icons/blockera-16.png
 
 [manifest]
 devtools_page = devtools.html
@@ -34,9 +34,9 @@ externally_connectable.accepts_tls_channel_id = bool:true
 planets = content.js
 
 [mapping]
-logo_44.png = chrome/icons/abp-44.png
-foo/logo_50.png = chrome/icons/abp-50.png
-icons/logo_150.png = chrome/icons/abp-150.png
+logo_44.png = chrome/icons/blockera-44.png
+foo/logo_50.png = chrome/icons/blockera-50.png
+icons/logo_150.png = chrome/icons/blockera-150.png
 
 [compat]
 chrome = 49.0
